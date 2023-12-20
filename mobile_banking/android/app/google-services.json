@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650272267486",
+    "project_id": "bankingsystem-e1909",
+    "storage_bucket": "bankingsystem-e1909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650272267486:android:e8e719a42b1890a7aef64f",
+        "android_client_info": {
+          "package_name": "com.example.mobile_banking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1AM3DCBp8rPhK_VKgaTz_ydU7KUgkic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
